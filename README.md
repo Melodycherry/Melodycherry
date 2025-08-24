@@ -16,7 +16,8 @@
 <a href="https://github.com/Melodycherry/42_push_swap">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/push_swape.png)</a>
 <a href="https://github.com/Melodycherry/42_so_long">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/so_longe.png)</a>
 <a href="https://github.com/Melodycherry/42-minishell">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/minishelle.png)</a>
-<a href="https://github.com/Melodycherry/42-philosophers">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/philosophersn.png)</a>
+<a href="https://github.com/Melodycherry/42-philosophers">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/philosopherse.png)</a>
+![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/cub3dn.png)</a>
 </div>
 
 ---
