@@ -23,3 +23,29 @@
 </div>
 
 ---
+
+### 👩🏼‍💻 About me :
+- 🎓 Student at 42 Lausanne ( currently studying the common core)
+- 💻 Former founder and owner of an online language learning company (Independent entrepreneur, 2017–2023)
+- 📍 Based in Lausanne, Switzerland ( originally from Paris, France )
+
+---
+
+### 🛠️ Currently learning :
+- Languages : C, C++
+- Tools : VsCode, Git, Notion, Docker
+- Online course : Harvard CS50, Openclassroom ( C and C++ ), freeCodeCamp
+
+---
+
+### 🎉 Fun facts :
+- 🤿 AOW Diver exploring the 7 seas
+- 🐶 Volunteering with stray dogs and wild animals around the world
+- 🌍 43 countries and counting ...
+
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,github,notion,docker,discord,linux,apple" />
+  </a>
+</p>
