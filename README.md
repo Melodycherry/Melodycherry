@@ -19,7 +19,7 @@
 <a href="https://github.com/Melodycherry/42-philosophers">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/philosopherse.png)</a>
 <a href="https://github.com/Melodycherry/NetPractice">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/netpracticee.png)</a>
 <a href="https://github.com/Melodycherry/42-cub3D">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/cub3dm.png)</a>
-<a href="https://github.com/Melodycherry/42-CPP">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/cppn.png)</a>
+<a href="https://github.com/Melodycherry/42-CPP">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/cppe.png)</a>
 <a href="https://github.com/Melodycherry/42-webserv">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/webserve.png)</a>
 <a href="https://github.com/Melodycherry/42-inception">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/inceptionn.png)</a>
 </div>
